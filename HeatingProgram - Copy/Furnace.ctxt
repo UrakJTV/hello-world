@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=area\ cap\ year
+comment0.target=double\ calcHeatOut(double,\ double,\ int)
+comment1.params=in\ out\ area\ cap\ time
+comment1.target=double\ heatRoom(double,\ double,\ double,\ double,\ double)
+comment2.params=in\ out\ area\ time
+comment2.target=double\ stopHeat(double,\ double,\ double,\ double)
+numComments=3
