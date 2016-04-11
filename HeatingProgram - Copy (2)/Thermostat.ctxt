@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ setTemp(double)
+comment1.params=heat
+comment1.target=void\ setOverheat(double)
+comment2.params=
+comment2.target=double\ getTemp()
+comment3.params=
+comment3.target=double\ getOverheat()
+numComments=4

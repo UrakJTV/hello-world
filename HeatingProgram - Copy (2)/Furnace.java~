@@ -1,0 +1,5 @@
+public class Furnace
+{
+    double cap = 50000.00;
+    double eff = 0.90;
+}

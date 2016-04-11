@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=void\ setTemp(double)
+comment1.params=temp
+comment1.target=double\ getTemp(double)
+numComments=2

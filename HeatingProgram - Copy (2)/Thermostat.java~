@@ -1,0 +1,5 @@
+public class Thermostat
+{
+    double setting;
+    double overheat;
+}

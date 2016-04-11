@@ -1,0 +1,66 @@
+Furnace: capacity = 50000.0              Efficiency = 90%        pilot on = true    heating = false   type =  gas     
+Room  Year Built: 2005  Temperature = 22.0   Area (Sq ft)= 2000.0    SHC = 4.0          BLC = 1.0     
+Environment:   Temperature = 10.0
+Thermostat:    Setting = 22.0   Overheat = 2.0
+Starting simulation:       Display frequency (secs) = 5.0   Runtime (sec): 7200.0
+
+Time               Inside             Outside            Furnace Status     
+----------         ----------         ----------         ---------------    
+0                  22.00              10.00              On                 
+300                22.22              10.00              On                 
+600                22.43              10.00              On                 
+900                22.64              10.00              On                 
+1200               22.85              10.00              On                 
+1500               23.05              10.00              On                 
+1800               23.25              10.00              On                 
+2100               23.44              10.00              On                 
+2400               23.63              10.00              On                 
+2700               23.81              10.00              On                 
+3000               23.99              10.00              On                 
+3300               24.17              10.00              Off                
+3600               23.88              10.00              Off                
+3900               23.59              10.00              Off                
+4200               23.30              10.00              Off                
+4500               23.03              10.00              Off                
+4800               22.75              10.00              Off                
+5100               22.49              10.00              Off                
+5400               22.23              10.00              Off                
+5700               21.97              10.00              On                 
+6000               22.19              10.00              On                 
+6300               22.41              10.00              On                 
+6600               22.62              10.00              On                 
+6900               22.82              10.00              On                 
+7200               23.03              10.00              On                 
+Furnace: capacity = 50000.0              Efficiency = 90%        pilot on = true    heating = false   type =  gas     
+Room  Year Built: 2005  Temperature = 22.0   Area (Sq ft)= 2000.0    SHC = 4.0          BLC = 1.0     
+Environment:   Temperature = 10.0
+Thermostat:    Setting = 22.0   Overheat = 2.0
+Starting simulation:       Display frequency (secs) = 5.0   Runtime (sec): 7200.0
+
+Time               Inside             Outside            Furnace Status     
+----------         ----------         ----------         ---------------    
+0                  22.00              10.00              On                 
+300                22.22              10.00              On                 
+600                22.43              10.00              On                 
+900                22.64              10.00              On                 
+1200               22.85              10.00              On                 
+1500               23.05              10.00              On                 
+1800               23.25              10.00              On                 
+2100               23.44              10.00              On                 
+2400               23.63              10.00              On                 
+2700               23.81              10.00              On                 
+3000               23.99              10.00              On                 
+3300               24.17              10.00              Off                
+3600               23.88              10.00              Off                
+3900               23.59              10.00              Off                
+4200               23.30              10.00              Off                
+4500               23.03              10.00              Off                
+4800               22.75              10.00              Off                
+5100               22.49              10.00              Off                
+5400               22.23              10.00              Off                
+5700               21.97              10.00              On                 
+6000               22.19              10.00              On                 
+6300               22.41              10.00              On                 
+6600               22.62              10.00              On                 
+6900               22.82              10.00              On                 
+7200               23.03              10.00              On                 

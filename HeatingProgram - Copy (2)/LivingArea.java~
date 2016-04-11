@@ -1,0 +1,7 @@
+public class LivingArea
+{
+    double yearBuilt;
+    double area;
+    double SHC;
+    double BLC;
+}
